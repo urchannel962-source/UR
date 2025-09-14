@@ -1,4 +1,4 @@
-# UR
+# 
 Buy tokens and sell tokens and enjoy your profits
 Quick start:
 1. Copy `.env.example` to `.env` and edit if needed.
