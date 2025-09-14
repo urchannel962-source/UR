@@ -18,3 +18,4 @@ Seed user: demo@user.com / demo1234
 
 ### New Feature: Navigation Menu
 - Added top navigation bar with links to Dashboard, Trade, History, Wallet.
+###Logo (UR)
